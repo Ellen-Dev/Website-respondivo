@@ -31,3 +31,21 @@ Referencias:
  <p> O video guia que usei foi:
 e pretendo fazer algumas mudanças no projeto antes de consider-lo finalizado.</p>
            
+           ![image](https://user-images.githubusercontent.com/93878819/149427880-06e34ed1-2459-496e-bd57-701873147132.png)
+           ![image](https://user-images.githubusercontent.com/93878819/149427927-e169027b-af8b-4e1e-af1c-84ba8aaca6c0.png)
+           ![image](https://user-images.githubusercontent.com/93878819/149427949-4ae4b544-be96-411b-9899-ecef8fb3c027.png)
+           
+           Mobile:
+           
+           ![image](https://user-images.githubusercontent.com/93878819/149427995-0e2503a6-532d-4edf-a6b7-28bb3a46b3ba.png)
+           ![image](https://user-images.githubusercontent.com/93878819/149428024-7487e287-03ab-4bf2-a61b-c53a72324f61.png)
+           
+           ![image](https://user-images.githubusercontent.com/93878819/149428046-40bd9e01-9423-424f-88c7-60b7f4c6ebbe.png)
+           ![image](https://user-images.githubusercontent.com/93878819/149428075-3f93150d-d5e1-4ebd-9a2b-4e112d504c24.png)
+
+
+
+
+
+
+
